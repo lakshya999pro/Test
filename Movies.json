@@ -1,11 +1,71 @@
 {
   "popular": [
-    { "title": "Inception", "thumb": "https://image.tmdb.org/t/p/w500/9gk7Fn9sVAsS969O9oqysOEaHBo.jpg", "url": "video_url_1" },
-    { "title": "The Dark Knight", "thumb": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg", "url": "video_url_2" }
+    {
+      "title": "Haul Out the Halloween",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZDdlMDY0MzctY2ZhNi00MTY5LThmNTktNmUyYzU4ZmExMzZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "url": "https://hubcloud.foo/drive/gz8zygpwryb4dbv"
+    },
+    {
+      "title": "Sitaare Zameen Par",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BZjdjODdiMTQtYWIwZi00NTQyLWE0YWItMzk3MTBhOGUyNDY3XkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg",
+      "url": "https://6rga.a0p3.com/vod/1/2025/07/16/ee60dde019d0/1328702097.mp4?wsSecret=a78270fcfded1ce5b3a7d20fdf33b0aa&wsTime=6899a1b4"
+    },
+    {
+      "title": "Game Changer",
+      "thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Z2xrscaG66XZaw3eOcdnvtZMaPbA9J6QiAEpp_VoydtUel2KoJlmRcg&s=10",
+      "url": "http://6rga.a0p3.com/vod/1/2025/03/07/8be0c5834a26/1251107740.mp4?wsSecret=88d9ec5b239a265af641a9e324803901&wsTime=6967583c"
+    },
+    {
+      "title": "Dhurandhar",
+      "thumb": "https://m.media-amazon.com/images/M/MV5BNGNlMzY2MGMtNGFkZi00MWUwLWE5ZTYtNDNmNjY2OTVhN2Q0XkEyXkFqcGc@._V1_.jpg",
+      "url": "http://6rga.a0p3.com/vod/1/2025/12/06/c8c0869101ef/1519451810.mp4?wsSecret=2d910663a3391b7a37ecafe1decbb71f&wsTime=694cdce0"
+    }
   ],
   "latest": [
-    { "title": "Avatar: Way of Water", "thumb": "https://image.tmdb.org/t/p/w500/t6Sna4vR7ghSfk799gnR9S9p96x.jpg", "url": "video_url_3" },
-    { "title": "Spider-Man: No Way Home", "thumb": "https://image.tmdb.org/t/p/w500/1g0dhYtWybi91Ni3tIBWt3O3xm3.jpg", "url": "video_url_4" }
+    {
+      "title": "Rahu Ketu",
+      "thumb": "https://image.tmdb.org/t/p/w400/zjgWWOIsEqYNSa1fGRr82mBo3gv.jpg",
+      "url": "https://hubcloud.fyi/drive/fxqsujdvkjiatfy"
+    },
+    {
+      "title": "Happy Patel: Khatarnak Jasoos",
+      "thumb": "https://image.tmdb.org/t/p/w400/nFwtiL6qafMhn0oGkTYZQNP0WxG.jpg",
+      "url": "https://hubcloud.fyi/drive/xlrl0nfmcflirth"
+    },
+    {
+      "title": "The Rip",
+      "thumb": "https://image.tmdb.org/t/p/w500/p4bW2sJKAwcHuLpfoZK7Zo63osA.jpg",
+      "url": "https://hubcloud.foo/drive/w6r01sw9wa6n4if"
+    },
+    {
+      "title": "Safia / Safdar",
+      "thumb": "https://image.tmdb.org/t/p/w500/ggN2WBU8cRMehVdS1nV0VYHACin.jpg",
+      "url": "https://hubcloud.foo/drive/esikjlimjiji6be"
+    },
+    {
+      "title": "The Internship",
+      "thumb": "https://image.tmdb.org/t/p/w500/fYqSOkix4rbDiZW0ACNnvZCpT6X.jpg",
+      "url": "https://hubcloud.fyi/drive/crmk6vvvmlorvds"
+    },
+    {
+      "title": "Anantha",
+      "thumb": "https://image.tmdb.org/t/p/w500/khmTG3LQYjHrP8qCSGtGsg3zDW6.jpg",
+      "url": "https://hubcloud.foo/drive/r4018r1c9u7o0cb"
+    },
+    {
+      "title": "One Last Adventure: The Making of Stranger Things 5",
+      "thumb": "https://image.tmdb.org/t/p/w400/aZhrAx5CevLfjXcGIG3wBXxDiAL.jpg",
+      "url": "https://hubcloud.fyi/drive/c313u7oo9nttf1z"
+    },
+    {
+      "title": "The RajaSaab",
+      "thumb": "https://image.tmdb.org/t/p/w500/3aTDrgrGDjivLvqwU9q3NTDChPy.jpg",
+      "url": "https://hubcloud.fyi/drive/7nn7enqqqqb9maa"
+    },
+    {
+      "title": "Ikkis",
+      "thumb": "https://image.tmdb.org/t/p/w500/dtdZ6QhcPyxGhpwamo8W8Yeiguh.jpg",
+      "url": "https://hubcloud.foo/drive/armjl8yw1mlyn98"
+    }
   ]
 }
-
