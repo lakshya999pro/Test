@@ -1,0 +1,11 @@
+{
+  "popular": [
+    { "title": "Inception", "thumb": "https://image.tmdb.org/t/p/w500/9gk7Fn9sVAsS969O9oqysOEaHBo.jpg", "url": "video_url_1" },
+    { "title": "The Dark Knight", "thumb": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDr9p1v3Cmp6sdz2RC5.jpg", "url": "video_url_2" }
+  ],
+  "latest": [
+    { "title": "Avatar: Way of Water", "thumb": "https://image.tmdb.org/t/p/w500/t6Sna4vR7ghSfk799gnR9S9p96x.jpg", "url": "video_url_3" },
+    { "title": "Spider-Man: No Way Home", "thumb": "https://image.tmdb.org/t/p/w500/1g0dhYtWybi91Ni3tIBWt3O3xm3.jpg", "url": "video_url_4" }
+  ]
+}
+
