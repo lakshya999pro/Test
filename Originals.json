@@ -107,13 +107,13 @@
     "in_order": [
       {
         "title": "Man of Steel",
-        "thumb": "https://image.tmdb.org/t/p/w400/dJdbdJrRxaoKO1KfcbkPvibHHxp.jpg",
+        "thumb": "https://image.tmdb.org/t/p/w500/8GFtkImmK0K1VaUChR0n9O61CFU.jpg",
         "url": "https://pixeldrain.dev/api/file/cjqPGYjS?download",
         "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth."
       },
       {
         "title": "Batman v Superman: Dawn of Justice",
-        "thumb": "https://image.tmdb.org/t/p/w400/vsjBeMPZtyB7yNsYg2ycBxeTUIZ.jpg",
+        "thumb": "https://image.tmdb.org/t/p/w500/5UsK3grJvtQrtzEgqNlDljJW96w.jpg",
         "url": "https://pixeldrain.dev/api/file/bHbSIqNA?download",
         "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs."
       },
