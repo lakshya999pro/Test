@@ -1,0 +1,264 @@
+{
+  "marvel": {
+    "list_order": [
+      {
+        "title": "Iron Man",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "https://pixeldrain.dev/api/file/CgQs3uN6?download",
+        "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil."
+      },
+      {
+        "title": "The Incredible Hulk",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "https://pixeldrain.dev/api/file/JpXrNxfd?download",
+        "description": "Bruce Banner, a scientist on the run from the U.S. Government, must find a cure for the monster he turns into whenever he loses his temper"
+      },
+      {
+        "title": "Iron Man 2",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BYWYyOGQzOGYtMGQ1My00ZWYxLTgzZjktZWYzN2IwYjkxYzM0XkEyXkFqcGc@._V1_QL75_UY266_CR1,0,180,266_.jpg",
+        "url": "https://pixeldrain.dev/api/file/AT5ehfC5?download",
+        "description": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his fathers legacy."
+      },
+      {
+        "title": "Thor",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BNjRhNGZjZjEtYTQzYS00OWUxLThjNGEtMTIwMTE2ZDFlZTZkXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/03/bfe2a4fe634f/738520065.mp4?wsSecret=1093fe631f36335f38217d5ef837d041&wsTime=68b6afcf",
+        "description": "The powerful but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard, where he soon becomes one of their finest defenders."
+      },
+      {
+        "title": "Captain America: The First Avenger",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BNzUyM2YyY2MtNzNlMS00MWU5LTgxNjAtNzZlNmI2NjU2NDZlXkEyXkFqcGc@._V1_QL75_UY266_CR4,0,180,266_.jpg",
+        "url": "http://6rga.a0p3.com/vod/1/2025/07/28/c1dd0f259e0b/1163856508.mp4?wsSecret=a5d6d179ddd634dd894e77ab97558e1a&wsTime=68b6b067",
+        "description": "Steve Rogers, a rejected military soldier, transforms into Captain America after taking a dose of a Super-Soldier serum."
+      }
+    ],
+    "new_releases": [
+      {
+        "title": "The Fantastic Four: First Steps",
+        "thumb": "https://image.tmdb.org/t/p/w400/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "url": "https://pixeldrain.dev/api/file/dUcsXWqg?download",
+        "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond."
+      },
+      {
+        "title": "Blade",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BMmFhYzljNzUtMDcyOC00MTI1LTgwM2YtMjdlOTBiZDU2YTk2XkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Coming Soon"
+      },
+      {
+        "title": "Thunderbolts",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BYWE2NmNmYTItZGY0ZC00MmY2LTk1NDAtMGUyMGEzMjcxNWM0XkEyXkFqcGc@._V1_QL75_UY266_CR5,0,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Coming Soon"
+      },
+      {
+        "title": "Captain America: Brave New World",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BNDRjY2E0ZmEtN2QwNi00NTEwLWI3MWItODNkMGYwYWFjNGE0XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Coming Soon"
+      },
+      {
+        "title": "Deadpool & Wolverine",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BZTk5ODY0MmQtMzA3Ni00NGY1LThiYzItZThiNjFiNDM4MTM3XkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Coming Soon"
+      }
+    ],
+    "tv_series": [
+      {
+        "title": "Agatha All Along",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BMDcyZTNjOTEtNzc5Yy00Y2UzLThkMWYtNTY4YmM4OWI5OTMzXkEyXkFqcGc@._V1_QL75_UY266_CR17,0,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road."
+      },
+      {
+        "title": "Moon Knight",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BNDAzNmYwZjgtNDc3YS00ZDMyLTk0MjktMTg4MGNmNGU3MjlhXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "./web/MoonKnight.html",
+        "description": "Steven Grant discovers he's been granted the powers of an Egyptian moon god."
+      },
+      {
+        "title": "Loki",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BYzA2YjM2ZWQtYTZhMS00OTI3LTlhYzQtZjBiZWZkMDdlNjA5XkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "The mercurial villain Loki resumes his role as the God of Mischief."
+      },
+      {
+        "title": "WandaVision",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BZTMxMmM1ODItMTZiMS00NjI1LWEwODctMjQ4ZjY4ODliNDI0XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Blends the style of classic sitcoms with the MCU in which Wanda Maximoff and Vision live idealized suburban lives."
+      },
+      {
+        "title": "The Falcon and the Winter Soldier",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BYmJkOGNlNmEtMmQyOS00YjZiLTgxM2EtNmEzNzUzNTU5ODYwXkEyXkFqcGc@._V1_QL75_UX180_CR0,0,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Following the events of Avengers: Endgame, Sam Wilson and Bucky Barnes team up in a global adventure."
+      },
+      {
+        "title": "Hawkeye",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BOGU5ZDBlOTAtOTZmYS00MWE0LTg0NzktNDcxZGJhN2FhZmM2XkEyXkFqcGc@._V1_QL75_UX180_CR0,2,180,266_.jpg",
+        "url": "you.mp4",
+        "description": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop."
+      }
+    ]
+  },
+  "dc": {
+    "in_order": [
+      {
+        "title": "Man of Steel",
+        "thumb": "https://image.tmdb.org/t/p/w400/dJdbdJrRxaoKO1KfcbkPvibHHxp.jpg",
+        "url": "https://pixeldrain.dev/api/file/cjqPGYjS?download",
+        "description": "An alien child is evacuated from his dying world and sent to Earth to live among humans. His peace is threatened when other survivors of his home planet invade Earth."
+      },
+      {
+        "title": "Batman v Superman: Dawn of Justice",
+        "thumb": "https://image.tmdb.org/t/p/w400/vsjBeMPZtyB7yNsYg2ycBxeTUIZ.jpg",
+        "url": "https://pixeldrain.dev/api/file/bHbSIqNA?download",
+        "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs."
+      },
+      {
+        "title": "Suicide Squad",
+        "thumb": "https://image.tmdb.org/t/p/w400/xFw9RXKZDvevAGocgBK0zteto4U.jpg",
+        "url": "https://pixeldrain.dev/api/file/9s0OlK8o?download",
+        "description": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force."
+      },
+      {
+        "title": "Wonder Woman",
+        "thumb": "https://image.tmdb.org/t/p/w400/gfJGlDaHuWimErCr5Ql0I8x9QSy.jpg",
+        "url": "https://pixeldrain.dev/api/file/TF0p1NzY?download",
+        "description": "When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny."
+      },
+      {
+        "title": "Justice League",
+        "thumb": "https://image.tmdb.org/t/p/w400/eifGNCSDuxJeS1loAXil5bIGgvC.jpg",
+        "url": "https://pixeldrain.dev/api/file/TgsMtKKv?download",
+        "description": "Fueled by his restored faith in humanity and inspired by Superman's selfless act, Bruce Wayne enlists the help of his new-found ally, Diana Prince, to face an even greater enemy."
+      },
+      {
+        "title": "Aquaman",
+        "thumb": "https://resizing.flixster.com/YNXWbINGzf4yR0DJbqUTzaLHPrw=/fit-in/180x240/v2/https://resizing.flixster.com/yJddG_H0bEEgyvFj2x_grJ-Y-2k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzFkODBmNjU5LTlhYjEtNGUyYy04Y2I0LWUxYWZmMWMzNWMwNC53ZWJw",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/07/19b9063c53e4/1076846577.mp4?wsSecret=827c9c10a9d6a9cc0e63922165834ae8&wsTime=68d9f4f7",
+        "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land."
+      },
+      {
+        "title": "Shazam!",
+        "thumb": "https://resizing.flixster.com/lF12AuMqQIAiucpgKq2kNdKFwnI=/fit-in/180x240/v2/https://resizing.flixster.com/Hm4c08vS5kceTzWphzzqJN2FtNY=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzUxMDhmN2IxLTE0OWYtNDIwYy05ZjVlLTk1MWUwNzJhYjEwMi53ZWJw",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/07/5e8fa607b2da/856171046.mp4?wsSecret=e4f92a1f0fa7293fa16b59ada7dc04f7&wsTime=68d9f50f",
+        "description": "A newly fostered young boy in search of his mother instead finds unexpected super powers and soon gains a powerful enemy."
+      },
+      {
+        "title": "Birds of Prey",
+        "thumb": "https://resizing.flixster.com/hunkPxH0OooWd1BBCaLG7VSKyro=/fit-in/180x240/v2/https://resizing.flixster.com/D1RPoY_6oHrD8NrDCvo9dvhP0hs=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2M3NzU0OGRhLTA5ODAtNDNhYS04YThlLTYwMmEzZWNmZTJhOC53ZWJw",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/06/ef66c7e253e6/691437367.mp4?wsSecret=a5eda0134a2101e8bcdec7fe63e5515b&wsTime=68d9f574",
+        "description": "After splitting with the Joker, Harley Quinn joins superheroines Black Canary, Huntress, and Renee Montoya to save a young girl from an evil crime lord."
+      },
+      {
+        "title": "The Suicide Squad",
+        "thumb": "https://resizing.flixster.com/TcipLgkU-ralXyxOT-lFoNfHeus=/fit-in/180x240/v2/https://resizing.flixster.com/AogEc-qbCohObFB8SeipbiLZkaU=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzAyYTFmYWFiLTNhYzItNDg5My1iYmExLWJjZDUzNmI3NDc0Mi5qcGc=",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/07/a6d6b0549db6/851248980.mp4?wsSecret=196d2be4f07ea388db49296db48d1617&wsTime=68d9f5dc",
+        "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons join the super-secret, super-shady Task Force X."
+      },
+      {
+        "title": "Black Adam",
+        "thumb": "https://catimages.org/images/2023/09/30/Black-Adam-2022.jpg",
+        "url": "https://pixeldrain.dev/api/file/Vrq42xmz?download",
+        "description": "Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods, Black Adam is freed from his earthly tomb."
+      },
+      {
+        "title": "Shazam! Fury of the Gods",
+        "thumb": "https://resizing.flixster.com/nY3LVWn4YZ2hoaa7B_eJVgcHfQ8=/fit-in/180x240/v2/https://resizing.flixster.com/AnBk7Sm69ZC6OPXJAdZOyCaPQ_k=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzIxMGQyZDBhLTI1MmEtNGM5NS1iZWU2LWQ5MGNhYmQ4OThjNi5qcGc=",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/06/b6c019ea809e/830576092.mp4?wsSecret=cb1b7ac358d5502195a2fd1422102833&wsTime=68d9f5f9",
+        "description": "The film continues the story of teenage Billy Batson who, upon reciting the magic word SHAZAM!, is transformed into his adult superhero alter ego."
+      },
+      {
+        "title": "Blue Beetle",
+        "thumb": "https://resizing.flixster.com/SwolvJvdfHEA_JO3X9fusPSLAWw=/fit-in/180x240/v2/https://resizing.flixster.com/LkLbwnW0XscqKuxfatfaG7sLeq0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc1YzY2OTkwLWUyYTktNGE0NS05YTg4LThlYzliNDRmNDExOS5qcGc=",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/06/1cc3640c190e/953002316.mp4?wsSecret=d9ba9201a1282e7a5fd5d3612a0e0807&wsTime=68d9f621",
+        "description": "An alien scarab chooses Jaime Reyes to be its symbiotic host, bestowing the recent college graduate with a suit of armor capable of extraordinary powers."
+      },
+      {
+        "title": "Aquaman and the Lost Kingdom",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BYjQ1ZTUzMWMtY2VkNS00ZDRjLWEwODYtYmFkMWJiNTQxMDUzXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "url": "http://6rga.a0p3.com/vod/1/2024/06/03/77007a426d24/891531583.mp4?wsSecret=218cd8ae11fd85acc143409fea180f7e&wsTime=68d9f63e",
+        "description": "Black Manta seeks revenge on Aquaman for his father's death. To defend Atlantis, Aquaman forges an alliance with his imprisoned brother."
+      }
+    ],
+    "new_releases": [
+      {
+        "title": "Superman",
+        "thumb": "https://image.tmdb.org/t/p/w500/1H9hdeRoniz30RKhyr1uLdBTfpG.jpg",
+        "url": "https://pixeldrain.dev/api/file/8g2VupJM?download",
+        "description": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent."
+      },
+      {
+        "title": "Joker: Folie à Deux",
+        "thumb": "https://image.tmdb.org/t/p/w400/if8QiqCI7WAGImKcJCfzp6VTyKA.jpg",
+        "url": "https://pixeldrain.dev/api/file/5igghsY8?download",
+        "description": "Struggling with his dual identity, failed comedian Arthur Fleck meets the love of his life, Harley Quinn, while incarcerated at Arkham State Hospital."
+      },
+      {
+        "title": "Joker",
+        "thumb": "https://image.tmdb.org/t/p/w400/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "url": "https://pixeldrain.dev/api/file/Wpu5M7uj?download",
+        "description": "During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City."
+      },
+      {
+        "title": "The Batman",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "url": "https://pixeldrain.dev/api/file/nvrKAjne?download",
+        "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption."
+      }
+    ],
+    "batman": [
+      {
+        "title": "The Batman",
+        "thumb": "https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+        "url": "https://pixeldrain.dev/api/file/nvrKAjne?download",
+        "description": "When a sadistic serial killer begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption."
+      },
+      {
+        "title": "Batman Begins",
+        "thumb": "https://image.tmdb.org/t/p/w400/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+        "url": "https://pixeldrain.dev/api/file/QC8UpDsQ?download",
+        "description": "After witnessing his parents' death, Bruce learns the art of fighting to confront injustice."
+      },
+      {
+        "title": "The Dark Knight",
+        "thumb": "https://image.tmdb.org/t/p/w400/xxfdZxY1qergcOWYocOrAhNnqFz.jpg",
+        "url": "https://pixeldrain.dev/api/file/BWs8HmuK?download",
+        "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must work to put an end to the madness."
+      },
+      {
+        "title": "The Dark Knight Rises",
+        "thumb": "https://image.tmdb.org/t/p/w400/hrJUZ5Jo2G3Czy391evhlxgbEdJ.jpg",
+        "url": "https://pixeldrain.dev/api/file/PtH3gA1s?download",
+        "description": "Bane, an imposing terrorist, attacks Gotham City. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again."
+      },
+      {
+        "title": "Batman (1989)",
+        "thumb": "https://imgshare.info/images/2025/08/18/Batman.1989..png",
+        "url": "https://pixeldrain.dev/api/file/FrKPDqxo?download",
+        "description": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker."
+      },
+      {
+        "title": "Batman Returns",
+        "thumb": "https://imgshare.info/images/2025/08/18/Batman.Returns.1992..jpg",
+        "url": "https://pixeldrain.dev/api/file/QY2tKDw6?download",
+        "description": "While Batman deals with a deformed man calling himself the Penguin, a female employee becomes the Catwoman with her own vendetta."
+      },
+      {
+        "title": "Batman Forever",
+        "thumb": "https://imgshare.info/images/2025/08/18/Batman.Forever.1995..jpg",
+        "url": "https://pixeldrain.dev/api/file/J5hj7w6T?download",
+        "description": "Batman must battle Two-Face and The Riddler with help from an amorous psychologist and a young circus acrobat who becomes Robin."
+      },
+      {
+        "title": "Batman & Robin",
+        "thumb": "https://imgshare.info/images/2025/08/18/Batman.and.Robin.1997.jpg",
+        "url": "https://pixeldrain.dev/api/file/kZBV8nyQ?download",
+        "description": "Batman and Robin try to keep their relationship together even as they must stop Mr. Freeze and Poison Ivy from freezing Gotham City."
+      }
+    ]
+  }
+}
